@@ -1,0 +1,22 @@
+{
+  "name": "Mariage Judia & Joste 2026",
+  "short_name": "Mariage 2026",
+  "description": "Planificateur et suivi du Mariage & Dote de Judia & Joste",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}

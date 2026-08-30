@@ -1,0 +1,6 @@
+{
+  "name": "Simulateur & Planning de Mariage",
+  "description": "Simulateur et planificateur intelligent de mariage: estimation budgétaire sur-mesure, rétroplanning interactif, gestion des postes de dépense et export de suivi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
